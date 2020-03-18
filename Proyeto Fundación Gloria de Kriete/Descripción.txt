@@ -1,0 +1,12 @@
+El proyecto consistía en realizar un sistema en línea para el programa oportunidades de la fundación Gloria de Kriete, 
+el cual se utilizaría para el uso interno del programa por parte del personal administrativo, 
+así también exalumnos del programa.
+Dentro del sistema se puede verificar expedientes de exalumnos hasta realizar inscripciones a talleres de empleabilidad 
+mensualmente.
+ De parte del lado de administración se pueden verificar reportes en gráficos y Excel las asistencias a dichos talleres 
+y así también como crearlos, también se puede ver reportes de las calificaciones que los alumnos le dan a cada taller 
+y su respectivo comentario.
+El sistema cuenta con diferentes niveles de acceso para que los alumnos tengan una distinción del personal administrativo, 
+así mismo se hace un respeto a la jerarquía dentro del programa creando niveles de usuario para cada rol dentro del personal, 
+dejando a cada tipo de usuarios tareas especificas que ayudaran al personal a realizar sus procesos de una más rápida y 
+efectiva.
